@@ -1,1 +1,2 @@
-first git file ever!
+removed first line.
+Appended new txt.
